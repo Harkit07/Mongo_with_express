@@ -1,0 +1,25 @@
+.card {
+    width: 30rem;
+    margin-bottom: 50px;
+    margin-left: 60px;
+    display: inline-block;
+}
+
+.content {
+    box-sizing: border-box;
+    padding: 1.5rem;
+}
+
+.msg {
+    background-color: #8ecae6;
+    border-radius: 1.3rem;
+    box-sizing: border-box;
+    padding: 0.6rem;
+    font-weight: 600;
+    margin: 2rem 1rem;
+}
+
+.card button {
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
